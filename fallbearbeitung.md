@@ -6,7 +6,7 @@ date: 8. Dezmber 2022
 
 # Referenzierung
 bibliography: bibliography.yaml
-csl: xyz.csl
+csl: juristische-zitierweise-schweizer.csl
 
 # Output
 output:
