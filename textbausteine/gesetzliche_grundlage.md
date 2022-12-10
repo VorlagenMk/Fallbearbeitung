@@ -1,1 +1,0 @@
-Hier kommt der Text mit den Belegen.
