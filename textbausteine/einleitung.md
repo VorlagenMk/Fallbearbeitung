@@ -6,4 +6,4 @@ den Schutz von Grundrechten Dritter gerechtfertigt und verhältnismässig
 sein (Art. 36 Abs. 1-3 BV). Schwere Eingriffe in Freiheitsrechte
 bedürfen einer klaren und ausdrücklichen Regelung in einem formellen
 Gesetz (Art. 36 Abs. 1 Satz 2 BV). Der Kerngehalt der Glaubens- und
-Gewissensfreiheit ist unantastbar (Art. 36 Abs. 4 BV).
+Gewissensfreiheit ist unantastbar (Art. 36 Abs. 4 BV).[@BGE14249, E. 6]
